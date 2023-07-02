@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ambaliololade
-- 👀 a frontend Developer in training
-- 🌱 I’m currently learning JavaScript 
+- 👀 a Full-Stack developer with expertise in javascript, php and laravel
+- 🌱 I’m currently exploring other back-end technologies and libraries.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, ambaliololade6@gmail.com 
 
